@@ -84,12 +84,12 @@ streamlit run app/app.py
 ## Contributors
 
 - Harsh Srivastav
-- [Other Contributors' Names]
+
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-For more information, feel free to contact [your_email@example.com].
+For more information, feel free to contact [harshsrivastav873@gmail.com].
 
